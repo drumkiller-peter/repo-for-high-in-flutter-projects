@@ -7,6 +7,7 @@ https://github.com/drumkiller-peter/Gold-detail-app-with-bloc-pattern
 https://github.com/drumkiller-peter/high_in_flutter
 
 3. Todo App with BLOC Pattern
+<https://github.com/drumkiller-peter/todo-app-flutter-firebase>
 - what you will see is:
   * implement bloc pattern 
   * add images and video in Firebase Storage.
