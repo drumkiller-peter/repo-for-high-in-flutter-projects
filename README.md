@@ -8,8 +8,8 @@ https://github.com/drumkiller-peter/high_in_flutter
 
 3. Todo App with BLOC Pattern
 - what you will see is:
-  a. implement bloc pattern 
-  b. add images and video in Firebase Storage.
-  c. Control Video Parameters like Play, Pause, Forward, Reverse.
-  d. Implement Google Sign in.
-  e. Sync google calendar API with Flutter
+  * implement bloc pattern 
+  * add images and video in Firebase Storage.
+  * Control Video Parameters like Play, Pause, Forward, Reverse.
+  * Implement Google Sign in.
+  * Sync google calendar API with Flutter
