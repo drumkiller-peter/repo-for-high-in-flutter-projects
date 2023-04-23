@@ -6,7 +6,10 @@ https://github.com/drumkiller-peter/Gold-detail-app-with-bloc-pattern
 2. Music Player clone
 https://github.com/drumkiller-peter/high_in_flutter
 
-3. Todo App with BLOC Pattern
+3. Microsoft Store UI Clone.
+https://github.com/drumkiller-peter/ms_store_ui_clone
+
+4. Todo App with BLOC Pattern
 <https://github.com/drumkiller-peter/todo-app-flutter-firebase>
 - what you will see is:
   * implement bloc pattern 
